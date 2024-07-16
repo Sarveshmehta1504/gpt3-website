@@ -37,8 +37,7 @@ a{
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-
-}
+  }
 
 .section__padding{
     padding: 4rem 6rem;
